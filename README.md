@@ -36,12 +36,18 @@ Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru
 ![Use Case](use_case.jpg)
 
 
-<b> Interaction Control Guru</b><br>
-<b> Interaction Control Guru</b><br>
+<br><b> Interaction Control Guru</b><br>
+
+![Interaction Control Guru](PAUD-KU_guru.png)
+
+
+<br><b> Interaction Control Murid</b><br>
+
+![Interaction Control Murid](PAUD-KU_murid.png)
+<br><b> Mockup Design Murid</b><br>
+    <a href = "https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_guru">Lihat di sini </a><br>
 <b> Mockup Design Guru</b><br>
-    <a href = "">Lihat di sini </a><br>
-<b> Mockup Design Guru</b><br>
-    <a href="">Lihat di sini </a>
+    <a href="https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_murid">Lihat di sini </a>
 
 
 
