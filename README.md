@@ -31,6 +31,11 @@ Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru
 
 <h2>Design</h2>
 <b> Use Case</b><br>
+
+
+![Use Case](use_case.jpg)
+
+
 <b> Interaction Control Guru</b><br>
 <b> Interaction Control Guru</b><br>
 <b> Mockup Design Guru</b><br>
