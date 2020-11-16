@@ -18,7 +18,7 @@
 
 <br><b>HASIL TUGAS</b>
 
-![HASIL TUGAS](HASIL TUGAS.jpg)
+![HASIL TUGAS](HASIL_TUGAS.jpg)
 
 <br><b>NILAI</b>
 
