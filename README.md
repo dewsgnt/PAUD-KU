@@ -57,7 +57,7 @@ Setelah kami selesai membuat desain dari hasil interview dan observasi, kami men
 
 <h2>Report Writing</h2>
 Setelah kami menyelesaikan empat tahapan sebelumnya, kami membuat sebuah final report yang ditulis sebagai rangkuman dari semua tahapan di atas.
-<a href="">Klik di sini untuk melihat Final Report</a>
+<a href="https://github.com/dewsgnt/PAUD-KU/blob/main/report_writing/final_report.pdf">Klik di sini untuk melihat Final Report</a>
 
     
     
