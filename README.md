@@ -52,8 +52,8 @@ Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru
 
 
 <h2>2nd Phase Requirement Gathering</h2>
-Setelah kami selesai membuat desain dari hasil interview dan observasi, kami mengadakan pertemuan lagi dengan para guru di PAUD Cempaka untuk mempresentasikan desain kami. Dan mengonfirmasi lagi bahwa apakah desain yang kami buat sudah sesuai atau belum dengan hasil dari pertemuan kita sebelumnya. Dan hasil dari pertemuan ini telah kami buatkan rekapitulasinya dalam bentuk mini report.<br>
-<a href="">Klik di sini untuk melihat mini report kedua.</a>
+<p>Setelah kami selesai membuat desain dari hasil interview dan observasi, kami mengadakan pertemuan lagi dengan para guru di PAUD Cempaka untuk mempresentasikan desain kami. Dan mengonfirmasi lagi bahwa apakah desain yang kami buat sudah sesuai atau belum dengan hasil dari pertemuan kita sebelumnya.</p><br>
+<li><a href="https://www.youtube.com/watch?v=3hSrNOrXVJo&feature=youtu.be">Klik di sini untuk melihat rekaman dari 2nd phase requirement gathering.</a></li>
 
 <h2>Report Writing</h2>
 Setelah kami menyelesaikan empat tahapan sebelumnya, kami membuat sebuah final report yang ditulis sebagai rangkuman dari semua tahapan di atas.
