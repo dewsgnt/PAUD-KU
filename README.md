@@ -9,7 +9,7 @@
   <h2>1st Phase Requirement Gathering</h2>
  PAUD-KU merupakan sistem informasi berbasis web yang dibuat untuk para guru dan murid yang terlibat pada proses pembelajaran jarak jauh di PAUD CEMPAKA. Untuk itu, kami melakukan interview dan obeservasi kepada para guru yang bersangkutan untuk mengumpulkan data mengenai kebutuhan sistem informasi ini. Hasil dari interview dan observasi tersebut telah kami buatkan rekapitulasinya dalam bentuk mini report.<br>
 <ul><li><a href="https://github.com/dewsgnt/PAUD-KU/blob/main/mini_report(phase1)/mini_report1.pdf">Klik di sini untuk melihat mini report</a></li>
-<li><a href="">Klik di sini untuk melihat rekaman dari 1st phase requirement gathering.</a></li></ul>
+<li><a href="https://www.youtube.com/watch?v=sjR5rosupzU&feature=youtu.be">Klik di sini untuk melihat rekaman dari 1st phase requirement gathering.</a></li></ul>
 
   <h2>Portofolio</h2>
 Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru maupun murid yang tergabung dalam PAUD CEMPAKA. Berdasarkan beberapa masalah yang kami dapatkan setelah melalui proses interview dan observasi, kami menyimpulkan bahwa ada beberapa fitur yang para guru paud butuhkan untuk memudahkannya dalam proses pembelajaran jarak jauh.<br>
