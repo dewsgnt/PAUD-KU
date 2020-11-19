@@ -48,9 +48,9 @@ Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru
 ![Interaction Control Murid](PAUD-KU_murid.png)
 
 <br><b> Mockup Design Murid</b><br>
-       <ul><li><a href = "https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_guru">Lihat di sini </a></li></ul><br>
+       <ul><li><a href = "https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_murid">Lihat di sini </a></li></ul><br>
 <b> Mockup Design Guru</b><br>
-       <ul><li><a href="https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_murid">Lihat di sini </a></li></ul>
+       <ul><li><a href="https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_guru">Lihat di sini </a></li></ul>
 
 
 <h2>2nd Phase Requirement Gathering</h2>
