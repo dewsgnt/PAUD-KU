@@ -7,7 +7,7 @@
   
   <h2>1st Phase Requirement Gathering</h2>
  PAUD-KU merupakan sistem informasi berbasis web yang dibuat untuk para guru dan murid yang terlibat pada proses pembelajaran jarak jauh di PAUD CEMPAKA. Untuk itu, kami melakukan interview dan obeservasi kepada para guru yang bersangkutan untuk mengumpulkan data mengenai kebutuhan sistem informasi ini. Hasil dari interview dan observasi tersebut telah kami buatkan rekapitulasinya dalam bentuk mini report.<br>
-<a href="https://github.com/dewsgnt/PAUD-KU/blob/main/mini_report(phase1)/mini_report1.pdf">Klik di sini untuk melihat mini report</a>
+<ul><li><a href="https://github.com/dewsgnt/PAUD-KU/blob/main/mini_report(phase1)/mini_report1.pdf">Klik di sini untuk melihat mini report</a></li></ul>
 
   <h2>Portofolio</h2>
 Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru maupun murid yang tergabung dalam PAUD CEMPAKA. Berdasarkan beberapa masalah yang kami dapatkan setelah melalui proses interview dan observasi, kami menyimpulkan bahwa ada beberapa fitur yang para guru paud butuhkan untuk memudahkannya dalam proses pembelajaran jarak jauh.<br>
@@ -46,9 +46,9 @@ Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru
 ![Interaction Control Murid](PAUD-KU_murid.png)
 
 <br><b> Mockup Design Murid</b><br>
-       <a href = "https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_guru">Lihat di sini </a><br>
+       <ul><li><a href = "https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_guru">Lihat di sini </a></li></ul><br>
 <b> Mockup Design Guru</b><br>
-       <a href="https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_murid">Lihat di sini </a>
+       <ul><li><a href="https://github.com/dewsgnt/PAUD-KU/tree/main/mockup_design_murid">Lihat di sini </a></li></ul>
 
 
 <h2>2nd Phase Requirement Gathering</h2>
@@ -56,8 +56,8 @@ Pembuatan sistem akademik PAUD-KU ini dimaksudkan untuk dapat membantu para guru
 <ul><li><a href="https://www.youtube.com/watch?v=3hSrNOrXVJo&feature=youtu.be">Klik di sini untuk melihat rekaman dari 2nd phase requirement gathering.</a></li></ul>
 
 <h2>Report Writing</h2>
-Setelah kami menyelesaikan empat tahapan sebelumnya, kami membuat sebuah final report yang ditulis sebagai rangkuman dari semua tahapan di atas.
-<a href="https://github.com/dewsgnt/PAUD-KU/blob/main/report_writing/final_report.pdf">Klik di sini untuk melihat Final Report</a>
+<p>Setelah kami menyelesaikan empat tahapan sebelumnya, kami membuat sebuah final report yang ditulis sebagai rangkuman dari semua tahapan di atas.<p>
+<ul><li><a href="https://github.com/dewsgnt/PAUD-KU/blob/main/report_writing/final_report.pdf">Klik di sini untuk melihat Final Report</a></li></ul>
 
     
     
