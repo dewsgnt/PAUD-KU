@@ -1,0 +1,93 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("../img/background.png");
+	background-repeat: no-repeat;
+}
+
+.container {
+	width: 800px;
+	margin: 90px auto;
+	min-height: 100%;
+}
+
+.masuk {
+	font-family: "Joti One";
+	font-size: 35px;
+	font-weight: bolder;
+	color: #ffbf08;
+	text-align: center;
+}
+.form {
+	border-radius: 30px;
+	border: 2px solid #174793;
+	width: 400px;
+	float: right;
+	padding: 20px;
+}
+input {
+	margin: 3px 4px 5px 34px;
+	width: 330px;
+	height: 25px;
+	color: gray;
+}
+button {
+	background-color: #ffbf08;
+	margin: 40px 4px 5px 34px;
+	width: 330px;
+	padding: 5px;
+	text-align: center;
+	border-radius: 5px;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	padding: 3px;
+}
+.nama {
+	font-family: "abeezee";
+	color: gray;
+	margin: 15px 4px 5px 30px;
+}
+label {
+	display: block;
+}
+.side {
+	margin: -75px 90px;
+	padding: 25px;
+}
+.paud {
+	font-size: 130px;
+	font-weight: bolder;
+	color: #fdee67;
+	font-family: "Coiny";
+	-webkit-text-stroke: 5px #174793;
+}
+
+.cempaka {
+	font-size: 70px;
+	font-weight: bolder;
+	color: #fdee67;
+	font-family: "Coiny";
+	-webkit-text-stroke: 4px #174793;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	padding: 10px 9px;
+	background-color: #174793;
+}
+img {
+	width: 15px;
+}
+.text {
+	color: white;
+	text-align: center;
+	font-family: "abeezee";
+}
