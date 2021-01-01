@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "abeezee";
+}
+
+header {
+	background-color: #ffbf08;
+	padding: 10px 30px 0px 40px;
+}
+ul {
+	list-style-type: none;
+}
+.paud {
+	font-size: 40px;
+	font-weight: bolder;
+	color: #fdee67;
+	font-family: "Coiny";
+	-webkit-text-stroke: 2px #174793;
+}
+p.paud {
+	display: inline;
+}
+
+.photo {
+	color: white;
+	float: right;
+	font-size: 30px;
+	margin-right: 20px;
+	font-family: "abeezee";
+}
+.logout {
+	float: right;
+	width: 30px;
+}
+img .logout {
+	width: 30px;
+	margin-top: 6px;
+}
+
+div.nav {
+	margin: 20px 10px 10px 30px;
+	font-family: "abeezee";
+	font-size: 20px;
+	text-decoration: none;
+	color: #174793;
+}
+
+a {
+	color: #174793;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #174793;
+	font-weight: bold;
+	transition: 0.5s;
+}
+
+.judul {
+	width: 80%;
+	margin: 30px auto;
+}
+.text1 {
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+
+.aspek {
+	font-size: 15px;
+	color: black;
+	text-align: left;
+	margin: 20px 70px;
+}
+
+table {
+	width: 80%;
+	font-family: "abeezee";
+	text-align: center;
+	margin: 30px auto;
+	border: 1px solid black !important;
+	color: black !important;
+}
+
+th {
+	height: 20px;
+}
+
+td {
+	height: 50px;
+	padding: 5px;
+}
+.ket {
+	color: black !important;
+	margin: 20px 70px;
+	font-size: 15px;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	padding: 10px 9px;
+	background-color: #174793;
+}
+img {
+	width: 15px;
+}
+
+footer .text {
+	font-family: "abeezee";
+	color: white;
+	text-align: center;
+}

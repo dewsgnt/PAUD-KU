@@ -47,7 +47,12 @@
             </a>
         </div>
         <div class="nav1">
-            <a href=""><img class="nav" src="<?= base_url(); ?>assets/img/nilai.png" alt="">
+            <a href="<?php if ($user['role_id'] == 1) : ?>
+                <?= base_url(); ?>nilai
+            <?php endif; ?>
+            <?php if ($user['role_id'] == 2) : ?>
+                <?= base_url(); ?>nilaimurid
+            <?php endif; ?>"><img class="nav" src="<?= base_url(); ?>assets/img/nilai.png" alt="">
                 <p> Nilai</p>
             </a>
         </div>

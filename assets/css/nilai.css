@@ -1,0 +1,134 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "abeezee";
+	color: #174793;
+}
+
+header {
+	background-color: #ffbf08;
+	padding: 10px 30px 0px 40px;
+}
+ul {
+	list-style-type: none;
+}
+.paud {
+	font-size: 40px;
+	font-weight: bolder;
+	color: #fdee67;
+	font-family: "Coiny";
+	-webkit-text-stroke: 2px #174793;
+}
+p.paud {
+	display: inline;
+}
+
+.photo {
+	color: white;
+	float: right;
+	font-size: 30px;
+	margin-right: 20px;
+	font-family: "abeezee";
+}
+.logout {
+	float: right;
+	width: 30px;
+}
+img .logout {
+	width: 30px;
+	margin-top: 6px;
+}
+
+div.nav {
+	margin: 20px 10px 10px 30px;
+	font-family: "abeezee";
+	font-size: 20px;
+	text-decoration: none;
+	color: #174793;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+	transition: 0.5s;
+}
+
+.judul {
+	width: 80%;
+	margin: 30px auto;
+	background-color: #fff8e8;
+}
+.text1 {
+	font-size: 50px;
+	font-family: "Joti One";
+	color: #ffbf08;
+	text-align: center;
+}
+
+.container {
+	width: 800px;
+	height: 230px;
+	margin: 30px auto;
+	box-shadow: 0 4px 4px gray;
+}
+.boxtugas {
+	padding: 10px 40px;
+}
+
+table {
+	width: 100%;
+	font-family: "abeezee";
+	text-align: center;
+	background-color: #ffbf08;
+}
+
+th {
+	background-color: #ffbf08;
+	height: 30px;
+}
+
+td {
+	background-color: #fff8e8;
+	height: 100px;
+	padding: 10px;
+}
+
+.pilihan {
+	text-align: center;
+}
+.edit {
+	background-color: #ffbf08;
+	margin: 30px 10px;
+	width: 100px;
+	padding: 3px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.hapus {
+	background-color: #fadd8c;
+	margin: 30px auto;
+	width: 100px;
+	padding: 3px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	padding: 10px 9px;
+	background-color: #174793;
+}
+img {
+	width: 15px;
+}
+
+footer .text {
+	font-family: "abeezee";
+	color: white;
+	text-align: center;
+}
