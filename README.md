@@ -7,6 +7,6 @@
  </ul>
  <hr>
  <h3>Final Report</h3>
- <p> <b><a href="">Click Here</a></b> to view the final report
+ <p> <b><a href="https://github.com/dewsgnt/PAUD-KU/blob/paud/FINAL%20PROJECT%20REPORT.pdf">Click Here</a></b> to view the final report
  <h3>Site Deployment Link</h3>
  <b>http://paudku.online/</b>
